@@ -12,7 +12,7 @@ Designed with a modern "Cosmic" UI, it offers a seamless user experience across 
 
 ---
 
-### **🚀 [LIVE DEMO: doodax.com](https://doodax.com)**
+### **🚀 [LIVE DEMO: doodax.com](https://doodax.com/tools/percentage-change-calculator/index.html)**
 *(Click to open in a new tab)*
 
 ---
